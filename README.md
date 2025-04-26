@@ -1,2 +1,15 @@
 # Weevely_fenxi
-Weevey's traffic analysis tool
+
+一个简单的针对weevely的流量分析工具
+
+简单易用
+
+解密请求包
+
+![1745637264799](img/1745637264799.png)
+
+
+
+解密响应包
+
+![1745637285372](img/1745637285372.png)
